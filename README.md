@@ -37,8 +37,8 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
-    $ cd PROJECT_TITLE
+    $ git clone https://github.com/sieteunoseis/cisco_jabber_finder.git
+    $ cd cisco_jabber_finder
     $ npm install
     
 ## Run
